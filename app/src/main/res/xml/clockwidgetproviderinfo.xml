@@ -1,0 +1,10 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="com.example.metaldude.watches.ClockWidgetConfig"
+    android:initialLayout="@layout/clockwidget_layout"
+    android:previewImage="@drawable/preload_icon"
+    android:minHeight="220dp"
+    android:minWidth="220dp"
+    android:updatePeriodMillis="0"
+    android:resizeMode="horizontal|vertical">
+
+</appwidget-provider>
